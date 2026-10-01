@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan Program di Terminal Linux
+##  Cara Menjalankan Program di Terminal Linux
 
 ```bash
 # Clone repositori

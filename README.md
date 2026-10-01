@@ -16,6 +16,8 @@
 3. Array 1D Integer (`empatAngka`)
 4. Array 2D String 3x3 (`Angka`)
 5. Data Struktur `LinkedList<Integer>` (`listAngka`)
+6. Tugas1 struktur data | Universitas Terbuka".
+   [![Tugas1 struktur data | Universitas Terbuka](https://youtube.com)](https://youtu.be/atgrNY75NFE)
 
 ---
 

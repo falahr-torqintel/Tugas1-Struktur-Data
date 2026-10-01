@@ -3,6 +3,7 @@
 
 **Nama:** Falah Rohmatuloh
 **NIM:** 058003899 
+
 **Program Studi:** Sistem Informasi  
 **Perguruan Tinggi:** Universitas Terbuka  
 **Environment:** Ubuntu Linux CLI (OpenJDK 21+)
@@ -21,7 +22,7 @@
 ##  Cara Menjalankan Program di Terminal Linux
 
 ```bash
-# Clone repositori
+# Clone repositori https://github.com/falahr-torqintel/Tugas1-Struktur-Data/tree/main
 
 
 # Masuk ke direktori

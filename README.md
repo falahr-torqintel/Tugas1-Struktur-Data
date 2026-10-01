@@ -5,7 +5,7 @@
 <details>
   <summary>🔍 Klik untuk melihat NIM Lengkap</summary>
   
-  NIM Resmi: ****38**
+  NIM Resmi: ****38 **
 </details>
 
 **Program Studi:** Sistem Informasi  

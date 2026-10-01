@@ -2,7 +2,11 @@
 # Tugas Praktik 1 - Struktur Data (Java)
 
 **Nama:** Falah Rohmatuloh
-**NIM:** 058003899 
+<details>
+  <summary>🔍 Klik untuk melihat NIM Lengkap</summary>
+  
+  NIM Resmi: 058003899
+</details>
 
 **Program Studi:** Sistem Informasi  
 **Perguruan Tinggi:** Universitas Terbuka  
